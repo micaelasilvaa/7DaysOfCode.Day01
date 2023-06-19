@@ -1,2 +1,2 @@
 # 7DaysOfCode.Day01
-Desafiao 7DaysOfCode
+Desafio 7DaysOfCode
